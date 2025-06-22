@@ -4,6 +4,10 @@
 # 🚀 Cicada Auto Bot – Quick Setup Guide
 
 ## Register with your email: [Cicada Preseason Campaign](https://campaign.cicada.finance/campaigns/6d70de3a-60ea-4896-b713-276de1bc02c7?code=oMlrYwEA)
+# Note: The campaign ends in 6 days...
+
+![image](https://github.com/user-attachments/assets/c2ff64fd-54dc-4e09-8e38-5454b9616551)
+
 
 
 ## 1. Clone the Repository
