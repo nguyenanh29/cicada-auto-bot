@@ -1,0 +1,16 @@
+{
+  "name": "cicada-auto-bot",
+  "version": "1.0.0",
+  "description": "Cicada campaign automation with multiple accounts and proxy rotation",
+  "type": "module",
+  "main": "cicada.js",
+  "scripts": {
+    "start": "node cicada.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
