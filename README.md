@@ -9,7 +9,7 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cicada-auto-bot.git
+git clone https://github.com/nguyenanh29/cicada-auto-bot.git
 cd cicada-auto-bot
 ```
 
