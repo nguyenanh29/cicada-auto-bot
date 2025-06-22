@@ -65,7 +65,7 @@ node cicada.js
 * Proxies are optional. If you don’t have a `proxy.txt`, the bot will run without proxies.
 
 ---
-
+## This code is credited to [Airdrop Insider Vikitoshi](https://github.com/vikitoshi)
 ## 📄 License
 
 MIT License – see [LICENSE](LICENSE) for details.
