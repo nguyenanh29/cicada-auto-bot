@@ -9,6 +9,9 @@
 ![image](https://github.com/user-attachments/assets/c2ff64fd-54dc-4e09-8e38-5454b9616551)
 
 
+## Register [link](https://campaign.cicada.finance/campaigns/6d70de3a-60ea-4896-b713-276de1bc02c7?code=oMlrYwEA)
+
+
 
 ## 1. Clone the Repository
 
@@ -39,6 +42,11 @@ npm install
   }
 ]
 ```
+
+## How to get your token and cookies
+
+![image](https://github.com/user-attachments/assets/6eb62894-d905-4143-8b3f-ab5212f9f9de)
+
 
 ## 4. Add Your Proxies (Optional)
 
