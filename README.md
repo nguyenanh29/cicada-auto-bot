@@ -72,7 +72,7 @@ npm start
 Or:
 
 ```bash
-node cicada.js
+node index.js
 ```
 
 ---
